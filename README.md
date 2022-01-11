@@ -2,7 +2,7 @@
 A collection of utility functions in Cadence
 
 
-## Square Root
+## Square Root
 
 ```cadence
 
